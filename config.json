@@ -1,6 +1,16 @@
 {
   "logChannelId": "1527910760099872890",
+  "roleLogChannelId": "1528002526379507792",
+  "ticketLogChannelId": "1528002628150366340",
+  "ticketTranscriptLogChannelId": "1528002758299488276",
   "adminRoleId": "1310605593848975400",
+  "activityRotateSeconds": 15,
+  "activities": [
+    { "text": "ดูแลเซิร์ฟเวอร์ | by @nongbest", "type": "competing" },
+    { "text": "/ticket เพื่อขอความช่วยเหลือ", "type": "watching" },
+    { "text": "แอดมิน best นอนอยู่ไม่ว่าง", "type": "watching" },
+    { "text": "reshade / รูป / ถ่าย offline", "type": "watching" }
+  ],
   "roles": [
     { "label": "verify-dc", "roleId": "1310606001497702430", "style": "Primary" }
   ],
