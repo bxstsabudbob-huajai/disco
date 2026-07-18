@@ -1,0 +1,38 @@
+{
+  "1527913867135684711": {
+    "ticketNumber": 1,
+    "channelId": "1527913867135684711",
+    "category": "ติดต่อจ้างทำ Website",
+    "openerId": "1188761285991616592",
+    "openedAt": 1784353452628,
+    "claimedBy": "1188761285991616592",
+    "respondedBy": "1188761285991616592",
+    "closedBy": "1188761285991616592",
+    "closedAt": 1784353487624,
+    "status": "closed"
+  },
+  "1527920621646778509": {
+    "ticketNumber": 2,
+    "channelId": "1527920621646778509",
+    "category": "ติดต่อซื้อ reshade / ซื้อรูป",
+    "openerId": "1188761285991616592",
+    "openedAt": 1784355063161,
+    "claimedBy": "1188761285991616592",
+    "respondedBy": "1188761285991616592",
+    "closedBy": "1188761285991616592",
+    "closedAt": 1784355089191,
+    "status": "closed"
+  },
+  "1527924372894126170": {
+    "ticketNumber": 3,
+    "channelId": "1527924372894126170",
+    "category": "ติดต่อถ่ายรูป offline",
+    "openerId": "1188761285991616592",
+    "openedAt": 1784355957376,
+    "claimedBy": "1188761285991616592",
+    "respondedBy": "1188761285991616592",
+    "closedBy": "1188761285991616592",
+    "closedAt": 1784355989584,
+    "status": "closed"
+  }
+}
