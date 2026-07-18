@@ -1,0 +1,19 @@
+{
+  "name": "discord-role-ticket-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot: ระบบรับยศ + Ticket + กันสแปม (พัฒนาโดย @nongbest)",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^1.0.2",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

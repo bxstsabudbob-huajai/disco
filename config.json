@@ -1,0 +1,21 @@
+{
+  "logChannelId": "1527910760099872890",
+  "adminRoleId": "1310605593848975400",
+  "roles": [
+    { "label": "verify-dc", "roleId": "1310606001497702430", "style": "Primary" }
+  ],
+  "ticketCategories": [
+    { "label": "ติดต่อซื้อ reshade / ซื้อรูป", "value": "general", "categoryId": "1527911685783027752" },
+    { "label": "ติดต่อถ่ายรูป offline", "value": "support", "categoryId": "1527911685783027752" },
+    { "label": "ติดต่อจ้างทำ website", "value": "complaint", "categoryId": "1527911685783027752" }
+  ],
+  "antiSpam": {
+    "enabled": true,
+    "maxMessages": 5,
+    "timeWindowSeconds": 5,
+    "timeoutMinutes": 10,
+    "maxMentions": 5,
+    "deleteInvites": true,
+    "whitelistRoleIds": []
+  }
+}
